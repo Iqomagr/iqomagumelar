@@ -64,8 +64,8 @@
 /* ------------------------------------------------*/
 :root {
   --_size: 1.6rem;
-  --_font-default: "Syne", sans-serif;
-  --_font-accent: "Syne", sans-serif;
+  --_font-default: "Poppins", sans-serif;
+  --_font-accent: "Poppins", sans-serif;
   --_radius-s: 1.5rem;
   --_radius-m: 2.2rem;
   --_radius-l: 3rem;
